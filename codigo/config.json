@@ -1,0 +1,110 @@
+{
+    "taxasEntrada": [
+        {
+            "min": "10",
+            "max": "13",
+            "per": "10"
+        },
+        {
+            "min": "13",
+            "max": "16",
+            "per": "30"
+        },
+        {
+            "min": "16",
+            "max": "19",
+            "per": "15"
+        },
+        {
+            "min": "19",
+            "max": "22",
+            "per": "45"
+        }
+    
+    ],
+    "temposAtendimentoZonaVend": [
+        {
+            "min": "0",
+            "max": "300",
+            "per": "10"
+        },
+        {
+            "min": "300",
+            "max": "600",
+            "per": "25"
+        },
+        {
+            "min": "600",
+            "max": "900",
+            "per": "40"
+        },
+        {
+            "min": "900",
+            "max": "1200",
+            "per": "20"
+        },
+        {
+            "min": "1200",
+            "max": "9999",
+            "per": "5"
+        }
+    
+    ],
+    "temposAtendimentoZonaPag": [
+        {
+            "min": "0",
+            "max": "60",
+            "per": "10"
+        },
+        {
+            "min": "60",
+            "max": "120",
+            "per": "25"
+        },
+        {
+            "min": "120",
+            "max": "180",
+            "per": "40"
+        },
+        {
+            "min": "180",
+            "max": "240",
+            "per": "20"
+        }
+    
+    ],
+    "temposAtendimentoZonaLev": [
+        {
+            "min": "0",
+            "max": "300",
+            "per": "30"
+        },
+        {
+            "min": "300",
+            "max": "600",
+            "per": "40"
+        },
+        {
+            "min": "600",
+            "max": "900",
+            "per": "25"
+        },
+        {
+            "min": "900",
+            "max": "1200",
+            "per": "5"
+        }
+    
+    ],
+    "perZonaVendPrioritarios": "5",
+    "perZonaVendCompras": "80",
+    "perPassamZonaLev": "60",
+    "perPassamZonaLevSemLevarProdutos": "5",
+    "NumClientes": [
+        {
+            "min": "300",
+            "max": "320"
+        }
+    ]
+    
+}
